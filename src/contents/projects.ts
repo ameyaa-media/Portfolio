@@ -11,15 +11,6 @@ export const projects: Project[] = [
     image: "/projects/wei.png",
   },
   {
-    title: "Ramedia",
-    description:
-      "RA Media & infotainment, every event begins with a story your story.",
-    technologies: ["WordPress", "UI/UX"],
-    githubLink: "#",
-    demoLink: "https://ramedia.in/",
-    image: "/projects/ramedia.png",
-  },
-  {
     title: "RKD Group",
     description:
       "Design your growth strategy with modern approaches that build better donor experiences – and relationships",
@@ -57,6 +48,23 @@ export const projects: Project[] = [
     image: "/projects/verticalvectors.png",
   },
   {
+    title: "Mahalakshmi Saravanan​",
+    description: "A Pioneer inSocial Entrepreneurship",
+    technologies: ["React Js", "UI/UX"],
+    githubLink: "#",
+    demoLink: "https://mahalakshmisaravanan.vercel.app/",
+    image: "/projects/ms.png",
+  },
+  {
+    title: "Ameyaa SEO​",
+    description: "Modern Solutions for Search Engine Optimisation",
+    technologies: ["Next Js", "UI/UX"],
+    githubLink: "#",
+    demoLink: "https://ameyaamedia-seo.netlify.app/",
+    image: "/projects/ameyaa-seo.png",
+  },
+
+  {
     title: "Ooty Rainbow Tours​",
     description:
       "Discover the magic of Ooty with Ooty Rainbow Tours, your trusted travel companion in the Nilgiris.",
@@ -93,14 +101,21 @@ export const projects: Project[] = [
     demoLink: "https://venueconnect.biz/",
     image: "/projects/venueconnect.png",
   },
-
   {
-    title: "Ameyaa Chat​",
-    description: "Personalized AI Chat",
+    title: "Ameyaa Blog​",
+    description: "Empowering Ideas One Story at a Time",
+    technologies: ["NextJs", "Typescript", "UI/UX"],
+    githubLink: "#",
+    demoLink: "https://ameyaa-blog.vercel.app/",
+    image: "/projects/ameyaa-blog.png",
+  },
+  {
+    title: "Ameyaa invoice​",
+    description: "Personalized invoice app",
     technologies: ["NextJs", "OpenAI", "Typescript", "UI/UX"],
     githubLink: "#",
-    demoLink: "#",
-    image: "/projects/ameyaa-chat.png",
+    demoLink: "https://ameyaa-invoice.vercel.app",
+    image: "/projects/ameyaa-invoice.png",
   },
   {
     title: "Ameyaa Media​",
